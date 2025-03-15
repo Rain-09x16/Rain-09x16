@@ -1,4 +1,4 @@
-# Hi there, I'm [Aritra Saha]! 👋
+# Hi there, I'm Aritra Saha! 👋
 
 ## About Me
 I'm a passionate Software Engineer with a love for coding. I enjoy working on projects that challenge me and help me grow as a developer.
