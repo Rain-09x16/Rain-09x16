@@ -12,6 +12,8 @@ I'm a passionate Software Engineer with a love for coding. I enjoy working on pr
 ## 🛠️ Technologies & Tools
 
 ### Languages
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### Frameworks & Libraries
