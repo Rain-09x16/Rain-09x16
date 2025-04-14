@@ -1,10 +1,10 @@
 # Hi there, I'm Aritra Saha! 👋
 
 ## About Me
-I'm a passionate Software Engineer with a love for coding. I enjoy working on projects that challenge me and help me grow as a developer.
+I'm a tech enthusiast with a love for coding. I enjoy working on projects that challenge me and help me grow as a developer.
 
-- 🔭 I’m currently working on growing my skills.
-- 🌱 I’m currently learning React.
+- 🔭 I’m currently working on growing my skills in the tech world as far as i can.
+- 🌱 Learning Full-Stack Software Development.
 - 📫 How to reach me: aritrasaha7373@gmail.com.
 - 😄 Pronouns: He/him.
 - ⚡ Fun fact: I love spending time playing games 😅.
