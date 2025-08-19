@@ -55,7 +55,6 @@ Hosted & managed Minecraft gaming events for 500+ concurrent users, including ba
 
 ## 📬 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aritra-saha-rainx/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-aritraxrain.netlify.app-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aritraxrain.netlify.app/)  
 [![Email](https://img.shields.io/badge/Email-aritrasaha7373@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aritrasaha7373@gmail.com)  
 
 ---
