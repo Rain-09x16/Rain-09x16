@@ -4,7 +4,7 @@
 I'm a **Full Stack Developer** & **AI Enthusiast** passionate about building modern, functional, and scalable applications that solve real-world problems.  
 I love blending **MERN Stack** skills with **AI-powered automation** to deliver projects that are fast, user-friendly, and impactful.  
 
-- 🔭 **Current Project:** AI Career Guidance Chat Assistant  
+- 🔭 **Current Project:** AI Chat Assistant 
 - 🌱 **Learning:** MERN Stack + Generative AI (OpenAI, Gemini, OpenRouter)  
 - ⚡ **Strengths:** Clean, maintainable code, quick prototyping, and efficient problem-solving  
 - 🎮 **Fun Fact:** If I’m not coding, I’m probably gaming or exploring new tech tools  
