@@ -39,9 +39,9 @@ I love blending **MERN Stack** skills with **AI-powered automation** to deliver 
 
 ## 🌟 Featured Projects  
 
-### 💬 Rainx AI Chatbot *(In Progress)*  
+### 💬 Rainx AI Chatbot *(Done)*  
 A modern AI chatbot with markdown support, typing animation, and chat history — built using **React, TailwindCSS, OpenRouter API**.  
-[🔗 View Project](https://github.com/Rain-09x16/rainx-ai)
+[🔗 View Live](https://rainx-ai.onrender.com/)
 
 ### 🎮 Minecraft Event Hosting Services *(Past)*  
 Hosted & managed Minecraft gaming events for 500+ concurrent users, including backend infrastructure, event planning, and media marketing.
