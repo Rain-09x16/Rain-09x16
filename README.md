@@ -5,7 +5,7 @@ I'm a **Full Stack Developer** & **AI Enthusiast** passionate about building mod
 I enjoy mixing **Full Stack development** with a touch of **AI magic** to build apps that feel modern, fast, and fun to use.  
 
 - 🔭 **Current Project:** AI Chat Assistant 
-- 🌱 **Learning:** Next.js, TypeScript, MERN Stack + Generative AI (OpenAI, Gemini, OpenRouter)  
+- 🌱 **Learning:** Next.js, TypeScript, Generative AI (OpenAI, Gemini, OpenRouter)  
 - ⚡ **Strengths:** Clean, maintainable code, quick prototyping, strong TypeScript practices, and efficient problem-solving  
 - 🎮 **Fun Fact:** If I’m not coding, I’m probably gaming or exploring new tech tools  
 
