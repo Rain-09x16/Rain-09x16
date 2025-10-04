@@ -58,8 +58,7 @@ A production-ready AI chatbot featuring markdown rendering, real-time typing ani
 [🔗 View Live](https://rainx-ai.onrender.com/)
 
 ### 🌐 Arcade Alliance Network Website *(Live)*  
-Designed and developed a complete modern website for a digital marketing agency with interactive UI/UX, responsive design, and professional branding.  
-**Tech:** HTML5, CSS3, JavaScript, Modern Web Design  
+Designed and developed a complete modern website for a digital marketing agency with interactive UI/UX, responsive design, and professional branding.   
 [🔗 Visit Website](https://www.arcadealliancenetwork.com/)  
 
 ---
