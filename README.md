@@ -52,10 +52,6 @@ I'm passionate about building **modern, intelligent applications** that bridge t
 
 ## 🌟 Featured Projects  
 
-### 🤖 AI Chat Assistant with MCP Integration *(In Development)*  
-Building an intelligent chat system leveraging **Model Context Protocol (MCP)** for enhanced AI capabilities and context management. Features include multi-model support, streaming responses, and modular MCP server architecture.  
-**Tech:** React, TypeScript, FastAPI, FastMCP, OpenRouter API  
-
 ### 💬 Rainx AI Chatbot *(Live)*  
 A production-ready AI chatbot featuring markdown rendering, real-time typing animations, and persistent chat history. Integrates with multiple LLM providers through OpenRouter for intelligent conversations.  
 **Tech:** React, TailwindCSS, OpenRouter API, AI Integration  
