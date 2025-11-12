@@ -1,13 +1,13 @@
 # 👋 Hey, I'm Aritra Saha  
 
-## 🚀 Full Stack Developer | AI Integration Specialist | MCP Architect
+## 🚀 Full Stack Developer | AI Integration | MCP Architect
 
 I'm passionate about building **modern, intelligent applications** that bridge traditional full-stack development with cutting-edge **AI capabilities** and **Model Context Protocol (MCP) integrations**. I specialize in creating scalable, maintainable systems that leverage AI to solve real-world problems.
 
 - 🤖 **Specialization:** AI Integration, MCP Server Development, Generative AI Applications  
 - 🔭 **Current Focus:** Building AI-powered tools with **FastMCP** and **MCP Protocol** for intelligent agent systems  
 - 🌱 **Actively Learning:** Advanced Next.js patterns, TypeScript best practices, Multi-agent AI systems, MCP integrations  
-- ⚡ **Core Strengths:** Clean architecture, rapid prototyping, AI/LLM integration, strong TypeScript practices, MCP server development  
+- ⚡ **Core Strengths:** Clean architecture, rapid prototyping, AI/LLM integration, good TypeScript practices, MCP server development  
 - 🎮 **When AFK:** Gaming, exploring emerging AI tools, experimenting with new developer technologies  
 
 ---
