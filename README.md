@@ -54,8 +54,8 @@ I work on hybrid AI systems by connecting modern web frameworks like Next.js to 
 
 | Project | Stack | Architecture |
 | :--- | :--- | :--- |
-| **[Dubai Navigator AI](https://github.com/Rain-09x16/dubai-ai-navigator)** | **Next.js 16 • Gemini • Qdrant** | Tourism agent with semantic search and safety-check workflows. |
-| **[VANTAGE (Prior Art)](https://github.com/Rain-09x16/patent-rag-analyst)** | **FastAPI • Watsonx • RAG** | Patent analysis pipeline reducing research time by 90%. |
+| **[Dubify](https://github.com/Rain-09x16/Toursim-Agent)** | **Next.js 16 • Gemini • Qdrant** | Tourism agent with semantic search and safety-check workflows. |
+| **[Vantage](https://github.com/Rain-09x16/Prior-Art-Analyst)** | **FastAPI • Watsonx • RAG** | Patent analysis pipeline reducing research time by 90%. |
 | **[DocuNote](https://github.com/selvatharrun/GenAI-exchange)** | **MCP • GCP • Vertex AI** | Legal document analysis system using the **Model Context Protocol**. |
 
 
