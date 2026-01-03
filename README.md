@@ -53,7 +53,10 @@ My work centers on asynchronous processing, event-driven architectures, and LLM-
 
 
 <div align="center">
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rain-09x16&label=Profile%20Views&color=121619&style=flat" />
+</p>
+  
 📬 Let's Connect  
 Open to early-stage startup roles, backend-heavy positions, and AI system engineering work.
 
